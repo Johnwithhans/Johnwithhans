@@ -10,6 +10,9 @@
 - C
 - C++
 - Java
+- JavaScript
+-PHP
+-C++
 
 🌱 Currently, I'm actively learning and expanding my skills in Python and Django. I'm dedicated to honing my craft and staying up-to-date with the latest industry trends.
 
